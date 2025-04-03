@@ -1,0 +1,5293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <book id="1">
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <published>1960</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="2">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <published>1949</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="3">
+    <title>Moby Dick</title>
+    <author>Herman Melville</author>
+    <published>1851</published>
+    <genre>Adventure</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="4">
+    <title>War and Peace</title>
+    <author>Leo Tolstoy</author>
+    <published>1869</published>
+    <genre>Historical</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="5">
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <published>1951</published>
+    <genre>Coming-of-Age</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="6">
+    <title>The Alchemist</title>
+    <author>Paulo Coelho</author>
+    <published>1988</published>
+    <genre>Adventure</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="7">
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <published>1813</published>
+    <genre>Romance</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="8">
+    <title>The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <published>1925</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="9">
+    <title>Brave New World</title>
+    <author>Aldous Huxley</author>
+    <published>1932</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="10">
+    <title>The Odyssey</title>
+    <author>Homer</author>
+    <published>-800</published>
+    <genre>Epic</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="11">
+    <title>The Picture of Dorian Gray</title>
+    <author>Oscar Wilde</author>
+    <published>1890</published>
+    <genre>Philosophical</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="12">
+    <title>Crime and Punishment</title>
+    <author>Fyodor Dostoevsky</author>
+    <published>1866</published>
+    <genre>Philosophical</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="13">
+    <title>The Brothers Karamazov</title>
+    <author>Fyodor Dostoevsky</author>
+    <published>1880</published>
+    <genre>Philosophical</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="14">
+    <title>The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <published>1937</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="15">
+    <title>Fahrenheit 451</title>
+    <author>Ray Bradbury</author>
+    <published>1953</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="16">
+    <title>Catch-22</title>
+    <author>Joseph Heller</author>
+    <published>1961</published>
+    <genre>Satire</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="17">
+    <title>The Grapes of Wrath</title>
+    <author>John Steinbeck</author>
+    <published>1939</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="18">
+    <title>The Road</title>
+    <author>Cormac McCarthy</author>
+    <published>2006</published>
+    <genre>Post-Apocalyptic</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="19">
+    <title>Jane Eyre</title>
+    <author>Charlotte Brontë</author>
+    <published>1847</published>
+    <genre>Romance</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="20">
+    <title>Wuthering Heights</title>
+    <author>Emily Brontë</author>
+    <published>1847</published>
+    <genre>Gothic</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="21">
+    <title>Little Women</title>
+    <author>Louisa May Alcott</author>
+    <published>1868</published>
+    <genre>Coming-of-Age</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="22">
+    <title>The Chronicles of Narnia</title>
+    <author>C.S. Lewis</author>
+    <published>1950</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="23">
+    <title>The Secret Garden</title>
+    <author>Frances Hodgson Burnett</author>
+    <published>1911</published>
+    <genre>Children's</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="24">
+    <title>The Call of the Wild</title>
+    <author>Jack London</author>
+    <published>1903</published>
+    <genre>Adventure</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="25">
+    <title>The Scarlet Letter</title>
+    <author>Nathaniel Hawthorne</author>
+    <published>1850</published>
+    <genre>Historical Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="26">
+    <title>Anna Karenina</title>
+    <author>Leo Tolstoy</author>
+    <published>1877</published>
+    <genre>Romance</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="27">
+    <title>The Handmaid's Tale</title>
+    <author>Margaret Atwood</author>
+    <published>1985</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="28">
+    <title>The Kite Runner</title>
+    <author>Khaled Hosseini</author>
+    <published>2003</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="29">
+    <title>The Fault in Our Stars</title>
+    <author>John Green</author>
+    <published>2012</published>
+    <genre>Young Adult</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="30">
+    <title>A Tale of Two Cities</title>
+    <author>Charles Dickens</author>
+    <published>1859</published>
+    <genre>Historical Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="31">
+    <title>The Alchemist</title>
+    <author>Paulo Coelho</author>
+    <published>1988</published>
+    <genre>Adventure</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="32">
+    <title>The Count of Monte Cristo</title>
+    <author>Alexandre Dumas</author>
+    <published>1844</published>
+    <genre>Adventure</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="33">
+    <title>The Da Vinci Code</title>
+    <author>Dan Brown</author>
+    <published>2003</published>
+    <genre>Thriller</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="34">
+    <title>Siddhartha</title>
+    <author>Hermann Hesse</author>
+    <published>1922</published>
+    <genre>Philosophical</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="35">
+    <title>The Sun Also Rises</title>
+    <author>Ernest Hemingway</author>
+    <published>1926</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="36">
+    <title>Slaughterhouse-Five</title>
+    <author>Kurt Vonnegut</author>
+    <published>1969</published>
+    <genre>Sci-Fi</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="37">
+    <title>Brave New World</title>
+    <author>Aldous Huxley</author>
+    <published>1932</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="38">
+    <title>The Old Man and the Sea</title>
+    <author>Ernest Hemingway</author>
+    <published>1952</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="39">
+    <title>A Clockwork Orange</title>
+    <author>Anthony Burgess</author>
+    <published>1962</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="40">
+    <title>The Hitchhiker's Guide to the Galaxy</title>
+    <author>Douglas Adams</author>
+    <published>1979</published>
+    <genre>Sci-Fi</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="41">
+    <title>The Bell Jar</title>
+    <author>Sylvia Plath</author>
+    <published>1963</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="42">
+    <title>To the Lighthouse</title>
+    <author>Virginia Woolf</author>
+    <published>1927</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="43">
+    <title>The Road</title>
+    <author>Cormac McCarthy</author>
+    <published>2006</published>
+    <genre>Post-Apocalyptic</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="44">
+    <title>Life of Pi</title>
+    <author>Yann Martel</author>
+    <published>2001</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="45">
+    <title>The Amazing Adventures of Kavalier &amp; Clay</title>
+    <author>Michael Chabon</author>
+    <published>2000</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="46">
+    <title>The Night Circus</title>
+    <author>Erin Morgenstern</author>
+    <published>2011</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="47">
+    <title>Where the Crawdads Sing</title>
+    <author>Delia Owens</author>
+    <published>2018</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="48">
+    <title>The Martian</title>
+    <author>Andy Weir</author>
+    <published>2011</published>
+    <genre>Sci-Fi</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="49">
+    <title>The Book Thief</title>
+    <author>Markus Zusak</author>
+    <published>2005</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="50">
+    <title>Educated</title>
+    <author>Tara Westover</author>
+    <published>2018</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="51">
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="52">
+    <title>The Glass Castle</title>
+    <author>Jeannette Walls</author>
+    <published>2005</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="53">
+    <title>Becoming</title>
+    <author>Michelle Obama</author>
+    <published>2018</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="54">
+    <title>Thinking,Fast and Slow</title>
+    <author>Daniel Kahneman</author>
+    <published>2011</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="55">
+    <title>Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <published>2011</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="56">
+    <title>The Power of Habit: Why We Do What We Do in Life and Business</title>
+    <author>Charles Duhigg</author>
+    <published>2012</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="57">
+    <title>The Subtle Art of Not Giving a F*ck</title>
+    <author>Mark Manson</author>
+    <published>2016</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="58">
+    <title>Quiet: The Power of Introverts in a World That Can't Stop Talking</title>
+    <author>Susan Cain</author>
+    <published>2012</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="59">
+    <title>Grit: The Power of Passion and Perseverance</title>
+    <author>Angela Duckworth</author>
+    <published>2016</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="60">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="61">
+    <title>How to Win Friends and Influence People</title>
+    <author>Dale Carnegie</author>
+    <published>1936</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="62">
+    <title>The Four Agreements</title>
+    <author>Don Miguel Ruiz</author>
+    <published>1997</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="63">
+    <title>Man's Search for Meaning</title>
+    <author>Viktor E. Frankl</author>
+    <published>1946</published>
+    <genre>Psychology</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="64">
+    <title>Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones</title>
+    <author>James Clear</author>
+    <published>2018</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="65">
+    <title>Dare to Lead</title>
+    <author>Brene Brown</author>
+    <published>2018</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="66">
+    <title>Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and the Middle Class Do Not</title>
+    <author>Robert T. Kiyosaki</author>
+    <published>1997</published>
+    <genre>Personal Finance</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="67">
+    <title>The Total Money Makeover: A Proven Plan for Financial Fitness</title>
+    <author>Dave Ramsey</author>
+    <published>2003</published>
+    <genre>Personal Finance</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="68">
+    <title>You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life</title>
+    <author>Jen Sincero</author>
+    <published>2013</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="69">
+    <title>Awaken the Giant Within</title>
+    <author>Tony Robbins</author>
+    <published>1991</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="70">
+    <title>The 48 Laws of Power</title>
+    <author>Robert Greene</author>
+    <published>1998</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="72">
+    <title>The Prince</title>
+    <author>Niccolò Machiavelli</author>
+    <published>1532</published>
+    <genre>Politics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="73">
+    <title>The Elements of Style</title>
+    <author>William Strunk Jr. and E.B. White</author>
+    <published>1959</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="74">
+    <title>On Writing: A Memoir of the Craft</title>
+    <author>Stephen King</author>
+    <published>2000</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="75">
+    <title>The War of Art</title>
+    <author>Steven Pressfield</author>
+    <published>2002</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="76">
+    <title>The Writing Life</title>
+    <author>Annie Dillard</author>
+    <published>1989</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="77">
+    <title>The Artist's Way: A Spiritual Path to Higher Creativity</title>
+    <author>Julia Cameron</author>
+    <published>1992</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="78">
+    <title>Big Magic: Creative Living Beyond Fear</title>
+    <author>Elizabeth Gilbert</author>
+    <published>2015</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="79">
+    <title>Steal Like an Artist: 10 Things Nobody Told You About Being Creative</title>
+    <author>Austin Kleon</author>
+    <published>2012</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="80">
+    <title>The Creative Habit: Learn It and Use It for Life</title>
+    <author>Twyla Tharp</author>
+    <published>2003</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="81">
+    <title>The Creative's Guide to Starting a Business</title>
+    <author>Danny Iny</author>
+    <published>2014</published>
+    <genre>Entrepreneurship</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="82">
+    <title>The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</title>
+    <author>Eric Ries</author>
+    <published>2011</published>
+    <genre>Entrepreneurship</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="83">
+    <title>Crushing It!: How Great Entrepreneurs Build Their Business and Influence—and How You Can, Too</title>
+    <author>Gary Vaynerchuk</author>
+    <published>2018</published>
+    <genre>Entrepreneurship</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="84">
+    <title>Zero to One: Notes on Startups, or How to Build the Future</title>
+    <author>Peter Thiel</author>
+    <published>2014</published>
+    <genre>Entrepreneurship</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="85">
+    <title>The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers</title>
+    <author>Ben Horowitz</author>
+    <published>2014</published>
+    <genre>Entrepreneurship</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="86">
+    <title>Start with Why: How Great Leaders Inspire Everyone to Take Action</title>
+    <author>Simon Sinek</author>
+    <published>2009</published>
+    <genre>Leadership</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="87">
+    <title>Good to Great: Why Some Companies Make the Leap... and Others Don't</title>
+    <author>Jim Collins</author>
+    <published>2001</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="88">
+    <title>The Five Dysfunctions of a Team: A Leadership Fable</title>
+    <author>Patrick Lencioni</author>
+    <published>2002</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="89">
+    <title>The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</title>
+    <author>Clayton Christensen</author>
+    <published>1997</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="90">
+    <title>The Advantage: Why Organizational Health Trumps Everything Else in Business</title>
+    <author>Patrick Lencioni</author>
+    <published>2012</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="91">
+    <title>Drive: The Surprising Truth About What Motivates Us</title>
+    <author>Daniel H. Pink</author>
+    <published>2009</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="92">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="93">
+    <title>Start with Why: How Great Leaders Inspire Everyone to Take Action</title>
+    <author>Simon Sinek</author>
+    <published>2009</published>
+    <genre>Leadership</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="94">
+    <title>Leaders Eat Last: Why Some Teams Pull Together and Others Don't</title>
+    <author>Simon Sinek</author>
+    <published>2014</published>
+    <genre>Leadership</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="95">
+    <title>The 48 Laws of Power</title>
+    <author>Robert Greene</author>
+    <published>1998</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="97">
+    <title>The Prince</title>
+    <author>Niccolò Machiavelli</author>
+    <published>1532</published>
+    <genre>Politics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="98">
+    <title>The Art of Happiness</title>
+    <author>Dalai Lama</author>
+    <published>1998</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="99">
+    <title>Thinking, Fast and Slow</title>
+    <author>Daniel Kahneman</author>
+    <published>2011</published>
+    <genre>Psychology</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="100">
+    <title>Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <published>2011</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="101">
+    <title>The God Delusion</title>
+    <author>Richard Dawkins</author>
+    <published>2006</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="102">
+    <title>The Selfish Gene</title>
+    <author>Richard Dawkins</author>
+    <published>1976</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="103">
+    <title>The Blind Watchmaker</title>
+    <author>Richard Dawkins</author>
+    <published>1986</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="104">
+    <title>A Brief History of Time</title>
+    <author>Stephen Hawking</author>
+    <published>1988</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="105">
+    <title>The Universe in a Nutshell</title>
+    <author>Stephen Hawking</author>
+    <published>2001</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="106">
+    <title>The Grand Design</title>
+    <author>Stephen Hawking</author>
+    <published>2010</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="107">
+    <title>The Fabric of the Cosmos: Space, Time, and the Texture of Reality</title>
+    <author>Brian Greene</author>
+    <published>2004</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="108">
+    <title>The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos</title>
+    <author>Brian Greene</author>
+    <published>2011</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="109">
+    <title>The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</title>
+    <author>Brian Greene</author>
+    <published>1999</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="110">
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="111">
+    <title>The Gene: An Intimate History</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2016</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="112">
+    <title>The Emperor of All Maladies: A Biography of Cancer</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="113">
+    <title>The Emperor of All Maladies: A Biography of Cancer</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="114">
+    <title>When Breath Becomes Air</title>
+    <author>Paul Kalanithi</author>
+    <published>2016</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="115">
+    <title>Being Mortal: Medicine and What Matters in the End</title>
+    <author>Atul Gawande</author>
+    <published>2014</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="116">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="117">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="118">
+    <title>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</title>
+    <author>Malcolm Gladwell</author>
+    <published>2013</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="119">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="120">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="121">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="122">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="123">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="124">
+    <title>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</title>
+    <author>Malcolm Gladwell</author>
+    <published>2013</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="125">
+    <title>The 48 Laws of Power</title>
+    <author>Robert Greene</author>
+    <published>1998</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="126">
+    <title>The Art of Happiness</title>
+    <author>Dalai Lama</author>
+    <published>1998</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="128">
+    <title>The Prince</title>
+    <author>Niccolò Machiavelli</author>
+    <published>1532</published>
+    <genre>Politics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="129">
+    <title>The Creative Habit: Learn It and Use It for Life</title>
+    <author>Twyla Tharp</author>
+    <published>2003</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="130">
+    <title>Big Magic: Creative Living Beyond Fear</title>
+    <author>Elizabeth Gilbert</author>
+    <published>2015</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="131">
+    <title>Steal Like an Artist: 10 Things Nobody Told You About Being Creative</title>
+    <author>Austin Kleon</author>
+    <published>2012</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="132">
+    <title>The Artist's Way: A Spiritual Path to Higher Creativity</title>
+    <author>Julia Cameron</author>
+    <published>1992</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="133">
+    <title>The Writing Life</title>
+    <author>Annie Dillard</author>
+    <published>1989</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="134">
+    <title>On Writing: A Memoir of the Craft</title>
+    <author>Stephen King</author>
+    <published>2000</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="135">
+    <title>The War of Art</title>
+    <author>Steven Pressfield</author>
+    <published>2002</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="136">
+    <title>How to Win Friends and Influence People</title>
+    <author>Dale Carnegie</author>
+    <published>1936</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="137">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="138">
+    <title>Start with Why: How Great Leaders Inspire Everyone to Take Action</title>
+    <author>Simon Sinek</author>
+    <published>2009</published>
+    <genre>Leadership</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="139">
+    <title>Good to Great: Why Some Companies Make the Leap... and Others Don't</title>
+    <author>Jim Collins</author>
+    <published>2001</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="140">
+    <title>The Five Dysfunctions of a Team: A Leadership Fable</title>
+    <author>Patrick Lencioni</author>
+    <published>2002</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="141">
+    <title>The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</title>
+    <author>Clayton Christensen</author>
+    <published>1997</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="142">
+    <title>The Advantage: Why Organizational Health Trumps Everything Else in Business</title>
+    <author>Patrick Lencioni</author>
+    <published>2012</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="143">
+    <title>Drive: The Surprising Truth About What Motivates Us</title>
+    <author>Daniel H. Pink</author>
+    <published>2009</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="144">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="145">
+    <title>Thinking, Fast and Slow</title>
+    <author>Daniel Kahneman</author>
+    <published>2011</published>
+    <genre>Psychology</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="146">
+    <title>Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <published>2011</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="147">
+    <title>The Selfish Gene</title>
+    <author>Richard Dawkins</author>
+    <published>1976</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="148">
+    <title>The God Delusion</title>
+    <author>Richard Dawkins</author>
+    <published>2006</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="149">
+    <title>A Brief History of Time</title>
+    <author>Stephen Hawking</author>
+    <published>1988</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="150">
+    <title>The Universe in a Nutshell</title>
+    <author>Stephen Hawking</author>
+    <published>2001</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="151">
+    <title>The Grand Design</title>
+    <author>Stephen Hawking</author>
+    <published>2010</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="152">
+    <title>The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos</title>
+    <author>Brian Greene</author>
+    <published>2011</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="153">
+    <title>The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</title>
+    <author>Brian Greene</author>
+    <published>1999</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="154">
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="155">
+    <title>The Gene: An Intimate History</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2016</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="156">
+    <title>The Emperor of All Maladies: A Biography of Cancer</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="157">
+    <title>When Breath Becomes Air</title>
+    <author>Paul Kalanithi</author>
+    <published>2016</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="158">
+    <title>Being Mortal: Medicine and What Matters in the End</title>
+    <author>Atul Gawande</author>
+    <published>2014</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="159">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="160">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="161">
+    <title>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</title>
+    <author>Malcolm Gladwell</author>
+    <published>2013</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="162">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="163">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="164">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="165">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="166">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="167">
+    <title>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</title>
+    <author>Malcolm Gladwell</author>
+    <published>2013</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="168">
+    <title>The 48 Laws of Power</title>
+    <author>Robert Greene</author>
+    <published>1998</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="169">
+    <title>The Art of Happiness</title>
+    <author>Dalai Lama</author>
+    <published>1998</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="171">
+    <title>The Prince</title>
+    <author>Niccolò Machiavelli</author>
+    <published>1532</published>
+    <genre>Politics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="172">
+    <title>The Creative Habit: Learn It and Use It for Life</title>
+    <author>Twyla Tharp</author>
+    <published>2003</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="173">
+    <title>Big Magic: Creative Living Beyond Fear</title>
+    <author>Elizabeth Gilbert</author>
+    <published>2015</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="174">
+    <title>Steal Like an Artist: 10 Things Nobody Told You About Being Creative</title>
+    <author>Austin Kleon</author>
+    <published>2012</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="175">
+    <title>The Artist's Way: A Spiritual Path to Higher Creativity</title>
+    <author>Julia Cameron</author>
+    <published>1992</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="176">
+    <title>The Writing Life</title>
+    <author>Annie Dillard</author>
+    <published>1989</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="177">
+    <title>On Writing: A Memoir of the Craft</title>
+    <author>Stephen King</author>
+    <published>2000</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="178">
+    <title>The War of Art</title>
+    <author>Steven Pressfield</author>
+    <published>2002</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="179">
+    <title>How to Win Friends and Influence People</title>
+    <author>Dale Carnegie</author>
+    <published>1936</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="180">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="181">
+    <title>Start with Why: How Great Leaders Inspire Everyone to Take Action</title>
+    <author>Simon Sinek</author>
+    <published>2009</published>
+    <genre>Leadership</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="182">
+    <title>Good to Great: Why Some Companies Make the Leap... and Others Don't</title>
+    <author>Jim Collins</author>
+    <published>2001</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="183">
+    <title>The Five Dysfunctions of a Team: A Leadership Fable</title>
+    <author>Patrick Lencioni</author>
+    <published>2002</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="184">
+    <title>The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</title>
+    <author>Clayton Christensen</author>
+    <published>1997</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="185">
+    <title>The Advantage: Why Organizational Health Trumps Everything Else in Business</title>
+    <author>Patrick Lencioni</author>
+    <published>2012</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="186">
+    <title>Drive: The Surprising Truth About What Motivates Us</title>
+    <author>Daniel H. Pink</author>
+    <published>2009</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="187">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="188">
+    <title>Thinking, Fast and Slow</title>
+    <author>Daniel Kahneman</author>
+    <published>2011</published>
+    <genre>Psychology</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="189">
+    <title>Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <published>2011</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="190">
+    <title>The Selfish Gene</title>
+    <author>Richard Dawkins</author>
+    <published>1976</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="191">
+    <title>The God Delusion</title>
+    <author>Richard Dawkins</author>
+    <published>2006</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="192">
+    <title>A Brief History of Time</title>
+    <author>Stephen Hawking</author>
+    <published>1988</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="193">
+    <title>The Universe in a Nutshell</title>
+    <author>Stephen Hawking</author>
+    <published>2001</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="194">
+    <title>The Grand Design</title>
+    <author>Stephen Hawking</author>
+    <published>2010</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="195">
+    <title>The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos</title>
+    <author>Brian Greene</author>
+    <published>2011</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="196">
+    <title>The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</title>
+    <author>Brian Greene</author>
+    <published>1999</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="197">
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="198">
+    <title>The Gene: An Intimate History</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2016</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="199">
+    <title>The Emperor of All Maladies: A Biography of Cancer</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="200">
+    <title>When Breath Becomes Air</title>
+    <author>Paul Kalanithi</author>
+    <published>2016</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="201">
+    <title>Being Mortal: Medicine and What Matters in the End</title>
+    <author>Atul Gawande</author>
+    <published>2014</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="202">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="203">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="204">
+    <title>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</title>
+    <author>Malcolm Gladwell</author>
+    <published>2013</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="205">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="206">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="207">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="208">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="209">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="210">
+    <title>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</title>
+    <author>Malcolm Gladwell</author>
+    <published>2013</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="211">
+    <title>The 48 Laws of Power</title>
+    <author>Robert Greene</author>
+    <published>1998</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="212">
+    <title>The Art of Happiness</title>
+    <author>Dalai Lama</author>
+    <published>1998</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="214">
+    <title>The Prince</title>
+    <author>Niccolò Machiavelli</author>
+    <published>1532</published>
+    <genre>Politics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="215">
+    <title>The Creative Habit: Learn It and Use It for Life</title>
+    <author>Twyla Tharp</author>
+    <published>2003</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="216">
+    <title>Big Magic: Creative Living Beyond Fear</title>
+    <author>Elizabeth Gilbert</author>
+    <published>2015</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="217">
+    <title>Steal Like an Artist: 10 Things Nobody Told You About Being Creative</title>
+    <author>Austin Kleon</author>
+    <published>2012</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="218">
+    <title>The Artist's Way: A Spiritual Path to Higher Creativity</title>
+    <author>Julia Cameron</author>
+    <published>1992</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="219">
+    <title>The Writing Life</title>
+    <author>Annie Dillard</author>
+    <published>1989</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="220">
+    <title>On Writing: A Memoir of the Craft</title>
+    <author>Stephen King</author>
+    <published>2000</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="221">
+    <title>The War of Art</title>
+    <author>Steven Pressfield</author>
+    <published>2002</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="222">
+    <title>How to Win Friends and Influence People</title>
+    <author>Dale Carnegie</author>
+    <published>1936</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="223">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="224">
+    <title>Start with Why: How Great Leaders Inspire Everyone to Take Action</title>
+    <author>Simon Sinek</author>
+    <published>2009</published>
+    <genre>Leadership</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="225">
+    <title>Good to Great: Why Some Companies Make the Leap... and Others Don't</title>
+    <author>Jim Collins</author>
+    <published>2001</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="226">
+    <title>The Five Dysfunctions of a Team: A Leadership Fable</title>
+    <author>Patrick Lencioni</author>
+    <published>2002</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="227">
+    <title>The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</title>
+    <author>Clayton Christensen</author>
+    <published>1997</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="228">
+    <title>The Advantage: Why Organizational Health Trumps Everything Else in Business</title>
+    <author>Patrick Lencioni</author>
+    <published>2012</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="229">
+    <title>Drive: The Surprising Truth About What Motivates Us</title>
+    <author>Daniel H. Pink</author>
+    <published>2009</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="230">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="231">
+    <title>Thinking, Fast and Slow</title>
+    <author>Daniel Kahneman</author>
+    <published>2011</published>
+    <genre>Psychology</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="232">
+    <title>Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <published>2011</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="233">
+    <title>The Selfish Gene</title>
+    <author>Richard Dawkins</author>
+    <published>1976</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="234">
+    <title>The God Delusion</title>
+    <author>Richard Dawkins</author>
+    <published>2006</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="235">
+    <title>A Brief History of Time</title>
+    <author>Stephen Hawking</author>
+    <published>1988</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="236">
+    <title>The Universe in a Nutshell</title>
+    <author>Stephen Hawking</author>
+    <published>2001</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="237">
+    <title>The Grand Design</title>
+    <author>Stephen Hawking</author>
+    <published>2010</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="238">
+    <title>The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos</title>
+    <author>Brian Greene</author>
+    <published>2011</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="239">
+    <title>The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</title>
+    <author>Brian Greene</author>
+    <published>1999</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="240">
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="241">
+    <title>The Gene: An Intimate History</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2016</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="242">
+    <title>The Emperor of All Maladies: A Biography of Cancer</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="243">
+    <title>When Breath Becomes Air</title>
+    <author>Paul Kalanithi</author>
+    <published>2016</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="244">
+    <title>Being Mortal: Medicine and What Matters in the End</title>
+    <author>Atul Gawande</author>
+    <published>2014</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="245">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="246">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="248">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="249">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="250">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="251">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="252">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="254">
+    <title>The 48 Laws of Power</title>
+    <author>Robert Greene</author>
+    <published>1998</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="255">
+    <title>The Art of Happiness</title>
+    <author>Dalai Lama</author>
+    <published>1998</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="256">
+    <title>The Art of War</title>
+    <author>Sun Tzu</author>
+    <published>5th Century BC</published>
+    <genre>Military</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="257">
+    <title>The Prince</title>
+    <author>Niccolò Machiavelli</author>
+    <published>1532</published>
+    <genre>Politics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="258">
+    <title>The Creative Habit: Learn It and Use It for Life</title>
+    <author>Twyla Tharp</author>
+    <published>2003</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="259">
+    <title>Big Magic: Creative Living Beyond Fear</title>
+    <author>Elizabeth Gilbert</author>
+    <published>2015</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="260">
+    <title>Steal Like an Artist: 10 Things Nobody Told You About Being Creative</title>
+    <author>Austin Kleon</author>
+    <published>2012</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="261">
+    <title>The Artist's Way: A Spiritual Path to Higher Creativity</title>
+    <author>Julia Cameron</author>
+    <published>1992</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="262">
+    <title>The Writing Life</title>
+    <author>Annie Dillard</author>
+    <published>1989</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="263">
+    <title>On Writing: A Memoir of the Craft</title>
+    <author>Stephen King</author>
+    <published>2000</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="264">
+    <title>The War of Art</title>
+    <author>Steven Pressfield</author>
+    <published>2002</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="265">
+    <title>How to Win Friends and Influence People</title>
+    <author>Dale Carnegie</author>
+    <published>1936</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="266">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="267">
+    <title>Start with Why: How Great Leaders Inspire Everyone to Take Action</title>
+    <author>Simon Sinek</author>
+    <published>2009</published>
+    <genre>Leadership</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="268">
+    <title>Good to Great: Why Some Companies Make the Leap... and Others Don't</title>
+    <author>Jim Collins</author>
+    <published>2001</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="269">
+    <title>The Five Dysfunctions of a Team: A Leadership Fable</title>
+    <author>Patrick Lencioni</author>
+    <published>2002</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="270">
+    <title>The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</title>
+    <author>Clayton Christensen</author>
+    <published>1997</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="271">
+    <title>The Advantage: Why Organizational Health Trumps Everything Else in Business</title>
+    <author>Patrick Lencioni</author>
+    <published>2012</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="272">
+    <title>Drive: The Surprising Truth About What Motivates Us</title>
+    <author>Daniel H. Pink</author>
+    <published>2009</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="273">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="275">
+    <title>Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <published>2011</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="276">
+    <title>The Selfish Gene</title>
+    <author>Richard Dawkins</author>
+    <published>1976</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="277">
+    <title>The God Delusion</title>
+    <author>Richard Dawkins</author>
+    <published>2006</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="278">
+    <title>A Brief History of Time</title>
+    <author>Stephen Hawking</author>
+    <published>1988</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="279">
+    <title>The Universe in a Nutshell</title>
+    <author>Stephen Hawking</author>
+    <published>2001</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="280">
+    <title>The Grand Design</title>
+    <author>Stephen Hawking</author>
+    <published>2010</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="281">
+    <title>The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos</title>
+    <author>Brian Greene</author>
+    <published>2011</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="283">
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="284">
+    <title>The Gene: An Intimate History</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2016</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="285">
+    <title>The Emperor of All Maladies: A Biography of Cancer</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="286">
+    <title>When Breath Becomes Air</title>
+    <author>Paul Kalanithi</author>
+    <published>2016</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="287">
+    <title>Being Mortal: Medicine and What Matters in the End</title>
+    <author>Atul Gawande</author>
+    <published>2014</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="288">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="289">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="291">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="292">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="293">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="294">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="295">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="297">
+    <title>The 48 Laws of Power</title>
+    <author>Robert Greene</author>
+    <published>1998</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="298">
+    <title>The Art of Happiness</title>
+    <author>Dalai Lama</author>
+    <published>1998</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="300">
+    <title>The Prince</title>
+    <author>Niccolò Machiavelli</author>
+    <published>1532</published>
+    <genre>Politics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="301">
+    <title>The Creative Habit: Learn It and Use It for Life</title>
+    <author>Twyla Tharp</author>
+    <published>2003</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="302">
+    <title>Big Magic: Creative Living Beyond Fear</title>
+    <author>Elizabeth Gilbert</author>
+    <published>2015</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="303">
+    <title>Steal Like an Artist: 10 Things Nobody Told You About Being Creative</title>
+    <author>Austin Kleon</author>
+    <published>2012</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="304">
+    <title>The Artist's Way: A Spiritual Path to Higher Creativity</title>
+    <author>Julia Cameron</author>
+    <published>1992</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="305">
+    <title>The Writing Life</title>
+    <author>Annie Dillard</author>
+    <published>1989</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="306">
+    <title>On Writing: A Memoir of the Craft</title>
+    <author>Stephen King</author>
+    <published>2000</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="307">
+    <title>The War of Art</title>
+    <author>Steven Pressfield</author>
+    <published>2002</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="308">
+    <title>How to Win Friends and Influence People</title>
+    <author>Dale Carnegie</author>
+    <published>1936</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="309">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="310">
+    <title>Start with Why: How Great Leaders Inspire Everyone to Take Action</title>
+    <author>Simon Sinek</author>
+    <published>2009</published>
+    <genre>Leadership</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="311">
+    <title>Good to Great: Why Some Companies Make the Leap... and Others Don't</title>
+    <author>Jim Collins</author>
+    <published>2001</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="312">
+    <title>The Five Dysfunctions of a Team: A Leadership Fable</title>
+    <author>Patrick Lencioni</author>
+    <published>2002</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="313">
+    <title>The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</title>
+    <author>Clayton Christensen</author>
+    <published>1997</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="314">
+    <title>The Advantage: Why Organizational Health Trumps Everything Else in Business</title>
+    <author>Patrick Lencioni</author>
+    <published>2012</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="315">
+    <title>Drive: The Surprising Truth About What Motivates Us</title>
+    <author>Daniel H. Pink</author>
+    <published>2009</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="316">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="318">
+    <title>Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <published>2011</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="319">
+    <title>The Selfish Gene</title>
+    <author>Richard Dawkins</author>
+    <published>1976</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="320">
+    <title>The God Delusion</title>
+    <author>Richard Dawkins</author>
+    <published>2006</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="321">
+    <title>A Brief History of Time</title>
+    <author>Stephen Hawking</author>
+    <published>1988</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="322">
+    <title>The Universe in a Nutshell</title>
+    <author>Stephen Hawking</author>
+    <published>2001</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="323">
+    <title>The Grand Design</title>
+    <author>Stephen Hawking</author>
+    <published>2010</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="324">
+    <title>The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos</title>
+    <author>Brian Greene</author>
+    <published>2011</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="326">
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="327">
+    <title>The Gene: An Intimate History</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2016</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="328">
+    <title>The Emperor of All Maladies: A Biography of Cancer</title>
+    <author>Siddhartha Mukherjee</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="329">
+    <title>When Breath Becomes Air</title>
+    <author>Paul Kalanithi</author>
+    <published>2016</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="330">
+    <title>Being Mortal: Medicine and What Matters in the End</title>
+    <author>Atul Gawande</author>
+    <published>2014</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="331">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="332">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="333">
+    <title>David and Goliath: Underdogs, Misfits, and the Art of Battling Giants</title>
+    <author>Malcolm Gladwell</author>
+    <published>2013</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="334">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="335">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="336">
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <published>2008</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="337">
+    <title>Blink: The Power of Thinking Without Thinking</title>
+    <author>Malcolm Gladwell</author>
+    <published>2005</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="338">
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <published>2000</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="340">
+    <title>The 48 Laws of Power</title>
+    <author>Robert Greene</author>
+    <published>1998</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="341">
+    <title>The Art of Happiness</title>
+    <author>Dalai Lama</author>
+    <published>1998</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="343">
+    <title>The Prince</title>
+    <author>Niccolò Machiavelli</author>
+    <published>1532</published>
+    <genre>Politics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="344">
+    <title>The Creative Habit: Learn It and Use It for Life</title>
+    <author>Twyla Tharp</author>
+    <published>2003</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="345">
+    <title>Big Magic: Creative Living Beyond Fear</title>
+    <author>Elizabeth Gilbert</author>
+    <published>2015</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="346">
+    <title>Steal Like an Artist: 10 Things Nobody Told You About Being Creative</title>
+    <author>Austin Kleon</author>
+    <published>2012</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="347">
+    <title>The Artist's Way: A Spiritual Path to Higher Creativity</title>
+    <author>Julia Cameron</author>
+    <published>1992</published>
+    <genre>Creativity</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="348">
+    <title>The Writing Life</title>
+    <author>Annie Dillard</author>
+    <published>1989</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="349">
+    <title>On Writing: A Memoir of the Craft</title>
+    <author>Stephen King</author>
+    <published>2000</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="350">
+    <title>The War of Art</title>
+    <author>Steven Pressfield</author>
+    <published>2002</published>
+    <genre>Writing</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="351">
+    <title>How to Win Friends and Influence People</title>
+    <author>Dale Carnegie</author>
+    <published>1936</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="352">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="353">
+    <title>Start with Why: How Great Leaders Inspire Everyone to Take Action</title>
+    <author>Simon Sinek</author>
+    <published>2009</published>
+    <genre>Leadership</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="354">
+    <title>Good to Great: Why Some Companies Make the Leap... and Others Don't</title>
+    <author>Jim Collins</author>
+    <published>2001</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="355">
+    <title>The Five Dysfunctions of a Team: A Leadership Fable</title>
+    <author>Patrick Lencioni</author>
+    <published>2002</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="356">
+    <title>The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</title>
+    <author>Clayton Christensen</author>
+    <published>1997</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="357">
+    <title>The Advantage: Why Organizational Health Trumps Everything Else in Business</title>
+    <author>Patrick Lencioni</author>
+    <published>2012</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="358">
+    <title>Drive: The Surprising Truth About What Motivates Us</title>
+    <author>Daniel H. Pink</author>
+    <published>2009</published>
+    <genre>Management</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="359">
+    <title>The 7 Habits of Highly Effective People</title>
+    <author>Stephen R. Covey</author>
+    <published>1989</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="361">
+    <title>Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <published>2011</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="362">
+    <title>The Selfish Gene</title>
+    <author>Richard Dawkins</author>
+    <published>1976</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="363">
+    <title>The God Delusion</title>
+    <author>Richard Dawkins</author>
+    <published>2006</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="364">
+    <title>A Brief History of Time</title>
+    <author>Stephen Hawking</author>
+    <published>1988</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="365">
+    <title>The Universe in a Nutshell</title>
+    <author>Stephen Hawking</author>
+    <published>2001</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="366">
+    <title>The Grand Design</title>
+    <author>Stephen Hawking</author>
+    <published>2010</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="367">
+    <title>The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos</title>
+    <author>Brian Greene</author>
+    <published>2011</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="369">
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="370">
+    <title>Think and Grow Rich</title>
+    <author>Napoleon Hill</author>
+    <published>1937</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="371">
+    <title>Atomic Habits</title>
+    <author>James Clear</author>
+    <published>2018</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="372">
+    <title>The Road Less Traveled</title>
+    <author>M. Scott Peck</author>
+    <published>1978</published>
+    <genre>Self-Help</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="373">
+    <title>Man's Search for Meaning</title>
+    <author>Victor Frankl</author>
+    <published>1946</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="374">
+    <title>The Man Who Knew Infinity</title>
+    <author>Robert Kanigel</author>
+    <published>1991</published>
+    <genre>Biography</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="375">
+    <title>Silent Spring</title>
+    <author>Rachel Carson</author>
+    <published>1962</published>
+    <genre>Environmental</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="376">
+    <title>Guns, Germs, and Steel</title>
+    <author>Jared Diamond</author>
+    <published>1997</published>
+    <genre>History</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="377">
+    <title>Collapse: How Societies Choose to Fail or Succeed</title>
+    <author>Jared Diamond</author>
+    <published>2005</published>
+    <genre>History</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="378">
+    <title>The Structure of Scientific Revolutions</title>
+    <author>Thomas S. Kuhn</author>
+    <published>1962</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="379">
+    <title>The Origin of Species</title>
+    <author>Charles Darwin</author>
+    <published>1859</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="380">
+    <title>The Double Helix</title>
+    <author>James D. Watson</author>
+    <published>1968</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="381">
+    <title>The Emperor's New Mind</title>
+    <author>Roger Penrose</author>
+    <published>1989</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="382">
+    <title>Quantum Mechanics: The Theoretical Minimum</title>
+    <author>Leonard Susskind</author>
+    <published>2013</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="383">
+    <title>The Order of Time</title>
+    <author>Carlo Rovelli</author>
+    <published>2017</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="384">
+    <title>The Fabric of the Cosmos</title>
+    <author>Brian Greene</author>
+    <published>2004</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="385">
+    <title>Seven Brief Lessons on Physics</title>
+    <author>Carlo Rovelli</author>
+    <published>2014</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="386">
+    <title>Chaos: Making a New Science</title>
+    <author>James Gleick</author>
+    <published>1987</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="387">
+    <title>Physics of the Impossible</title>
+    <author>Michio Kaku</author>
+    <published>2008</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="388">
+    <title>The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution</title>
+    <author>Walter Isaacson</author>
+    <published>2014</published>
+    <genre>Technology</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="389">
+    <title>Steve Jobs</title>
+    <author>Walter Isaacson</author>
+    <published>2011</published>
+    <genre>Biography</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="390">
+    <title>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future</title>
+    <author>Ashlee Vance</author>
+    <published>2015</published>
+    <genre>Biography</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="391">
+    <title>Einstein: His Life and Universe</title>
+    <author>Walter Isaacson</author>
+    <published>2007</published>
+    <genre>Biography</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="392">
+    <title>Becoming</title>
+    <author>Michelle Obama</author>
+    <published>2018</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="393">
+    <title>Educated</title>
+    <author>Tara Westover</author>
+    <published>2018</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="394">
+    <title>The Glass Castle</title>
+    <author>Jeannette Walls</author>
+    <published>2005</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="395">
+    <title>Unbroken: A World War II Story of Survival, Resilience, and Redemption</title>
+    <author>Laura Hillenbrand</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="396">
+    <title>The Wright Brothers</title>
+    <author>David McCullough</author>
+    <published>2015</published>
+    <genre>Biography</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="397">
+    <title>Alexander Hamilton</title>
+    <author>Ron Chernow</author>
+    <published>2004</published>
+    <genre>Biography</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="398">
+    <title>Grant</title>
+    <author>Ron Chernow</author>
+    <published>2017</published>
+    <genre>Biography</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="399">
+    <title>Team of Rivals: The Political Genius of Abraham Lincoln</title>
+    <author>Doris Kearns Goodwin</author>
+    <published>2005</published>
+    <genre>History</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="400">
+    <title>1776</title>
+    <author>David McCullough</author>
+    <published>2005</published>
+    <genre>History</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="401">
+    <title>John Adams</title>
+    <author>David McCullough</author>
+    <published>2001</published>
+    <genre>Biography</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="402">
+    <title>The Rise and Fall of the Third Reich</title>
+    <author>William L. Shirer</author>
+    <published>1960</published>
+    <genre>History</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="403">
+    <title>Bury My Heart at Wounded Knee</title>
+    <author>Dee Brown</author>
+    <published>1970</published>
+    <genre>History</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="404">
+    <title>Genghis Khan and the Making of the Modern World</title>
+    <author>Jack Weatherford</author>
+    <published>2004</published>
+    <genre>History</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="405">
+    <title>The Pioneers</title>
+    <author>David McCullough</author>
+    <published>2019</published>
+    <genre>History</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="406">
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <published>2010</published>
+    <genre>Non-Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="407">
+    <title>The Sixth Extinction: An Unnatural History</title>
+    <author>Elizabeth Kolbert</author>
+    <published>2014</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="408">
+    <title>A Short History of Nearly Everything</title>
+    <author>Bill Bryson</author>
+    <published>2003</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="409">
+    <title>Cosmos</title>
+    <author>Carl Sagan</author>
+    <published>1980</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="410">
+    <title>Pale Blue Dot: A Vision of the Human Future in Space</title>
+    <author>Carl Sagan</author>
+    <published>1994</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="411">
+    <title>The God Particle: If the Universe Is the Answer, What Is the Question?</title>
+    <author>Leon Lederman</author>
+    <published>1993</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="412">
+    <title>The Demon-Haunted World: Science as a Candle in the Dark</title>
+    <author>Carl Sagan</author>
+    <published>1995</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="413">
+    <title>The Greatest Show on Earth: The Evidence for Evolution</title>
+    <author>Richard Dawkins</author>
+    <published>2009</published>
+    <genre>Science</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="414">
+    <title>The Social Contract</title>
+    <author>Jean-Jacques Rousseau</author>
+    <published>1762</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="415">
+    <title>The Prince</title>
+    <author>Niccolò Machiavelli</author>
+    <published>1532</published>
+    <genre>Politics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="416">
+    <title>On Liberty</title>
+    <author>John Stuart Mill</author>
+    <published>1859</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="417">
+    <title>The Wealth of Nations</title>
+    <author>Adam Smith</author>
+    <published>1776</published>
+    <genre>Economics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="418">
+    <title>Das Kapital</title>
+    <author>Karl Marx</author>
+    <published>1867</published>
+    <genre>Economics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="419">
+    <title>The Communist Manifesto</title>
+    <author>Karl Marx and Friedrich Engels</author>
+    <published>1848</published>
+    <genre>Politics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="420">
+    <title>Brave New World</title>
+    <author>Aldous Huxley</author>
+    <published>1932</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="421">
+    <title>Fahrenheit 451</title>
+    <author>Ray Bradbury</author>
+    <published>1953</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="422">
+    <title>Animal Farm</title>
+    <author>George Orwell</author>
+    <published>1945</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="423">
+    <title>A Clockwork Orange</title>
+    <author>Anthony Burgess</author>
+    <published>1962</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="424">
+    <title>The Road</title>
+    <author>Cormac McCarthy</author>
+    <published>2006</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="425">
+    <title>The Handmaid's Tale</title>
+    <author>Margaret Atwood</author>
+    <published>1985</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="426">
+    <title>Oryx and Crake</title>
+    <author>Margaret Atwood</author>
+    <published>2003</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="427">
+    <title>The Hunger Games</title>
+    <author>Suzanne Collins</author>
+    <published>2008</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="428">
+    <title>Mockingjay</title>
+    <author>Suzanne Collins</author>
+    <published>2010</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="429">
+    <title>The Maze Runner</title>
+    <author>James Dashner</author>
+    <published>2009</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="430">
+    <title>Divergent</title>
+    <author>Veronica Roth</author>
+    <published>2011</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="431">
+    <title>The Giver</title>
+    <author>Lois Lowry</author>
+    <published>1993</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="432">
+    <title>The Little Prince</title>
+    <author>Antoine de Saint-Exupéry</author>
+    <published>1943</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="433">
+    <title>The Phantom Tollbooth</title>
+    <author>Norton Juster</author>
+    <published>1961</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="434">
+    <title>Where the Wild Things Are</title>
+    <author>Maurice Sendak</author>
+    <published>1963</published>
+    <genre>Children's</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="435">
+    <title>Charlotte's Web</title>
+    <author>E.B. White</author>
+    <published>1952</published>
+    <genre>Children's</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="436">
+    <title>The Secret Garden</title>
+    <author>Frances Hodgson Burnett</author>
+    <published>1911</published>
+    <genre>Children's</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="437">
+    <title>Harry Potter and the Sorcerer's Stone</title>
+    <author>J.K. Rowling</author>
+    <published>1997</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="438">
+    <title>Harry Potter and the Chamber of Secrets</title>
+    <author>J.K. Rowling</author>
+    <published>1998</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="439">
+    <title>Harry Potter and the Prisoner of Azkaban</title>
+    <author>J.K. Rowling</author>
+    <published>1999</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="440">
+    <title>The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <published>1937</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="441">
+    <title>The Fellowship of the Ring</title>
+    <author>J.R.R. Tolkien</author>
+    <published>1954</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="442">
+    <title>The Two Towers</title>
+    <author>J.R.R. Tolkien</author>
+    <published>1954</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="443">
+    <title>The Return of the King</title>
+    <author>J.R.R. Tolkien</author>
+    <published>1955</published>
+    <genre>Fantasy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="444">
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <published>1951</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="445">
+    <title>The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <published>1925</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="446">
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <published>1960</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="447">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <published>1949</published>
+    <genre>Dystopian</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="448">
+    <title>War and Peace</title>
+    <author>Leo Tolstoy</author>
+    <published>1869</published>
+    <genre>Historical</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="449">
+    <title>Moby Dick</title>
+    <author>Herman Melville</author>
+    <published>1851</published>
+    <genre>Adventure</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="450">
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <published>1813</published>
+    <genre>Romance</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="451">
+    <title>Emma</title>
+    <author>Jane Austen</author>
+    <published>1815</published>
+    <genre>Romance</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="452">
+    <title>Little Women</title>
+    <author>Louisa May Alcott</author>
+    <published>1868</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="453">
+    <title>Jane Eyre</title>
+    <author>Charlotte Brontë</author>
+    <published>1847</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="454">
+    <title>Wuthering Heights</title>
+    <author>Emily Brontë</author>
+    <published>1847</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="455">
+    <title>A Tale of Two Cities</title>
+    <author>Charles Dickens</author>
+    <published>1859</published>
+    <genre>Historical</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="456">
+    <title>The Count of Monte Cristo</title>
+    <author>Alexandre Dumas</author>
+    <published>1844</published>
+    <genre>Adventure</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="457">
+    <title>Dracula</title>
+    <author>Bram Stoker</author>
+    <published>1897</published>
+    <genre>Horror</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="458">
+    <title>Frankenstein</title>
+    <author>Mary Shelley</author>
+    <published>1818</published>
+    <genre>Horror</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="459">
+    <title>The Metamorphosis</title>
+    <author>Franz Kafka</author>
+    <published>1915</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="460">
+    <title>Crime and Punishment</title>
+    <author>Fyodor Dostoevsky</author>
+    <published>1866</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="461">
+    <title>The Brothers Karamazov</title>
+    <author>Fyodor Dostoevsky</author>
+    <published>1880</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="462">
+    <title>The Idiot</title>
+    <author>Fyodor Dostoevsky</author>
+    <published>1869</published>
+    <genre>Philosophy</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="463">
+    <title>Anna Karenina</title>
+    <author>Leo Tolstoy</author>
+    <published>1877</published>
+    <genre>Romance</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="464">
+    <title>Les Misérables</title>
+    <author>Victor Hugo</author>
+    <published>1862</published>
+    <genre>Historical</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="465">
+    <title>The Iliad</title>
+    <author>Homer</author>
+    <published>8th Century BC</published>
+    <genre>Classics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="466">
+    <title>The Odyssey</title>
+    <author>Homer</author>
+    <published>8th Century BC</published>
+    <genre>Classics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="467">
+    <title>The Aeneid</title>
+    <author>Virgil</author>
+    <published>1st Century BC</published>
+    <genre>Classics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="468">
+    <title>Inferno</title>
+    <author>Dante Alighieri</author>
+    <published>1320</published>
+    <genre>Classics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="469">
+    <title>Paradise Lost</title>
+    <author>John Milton</author>
+    <published>1667</published>
+    <genre>Classics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="470">
+    <title>Don Quixote</title>
+    <author>Miguel de Cervantes</author>
+    <published>1605</published>
+    <genre>Classics</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="471">
+    <title>One Hundred Years of Solitude</title>
+    <author>Gabriel Garcia Marquez</author>
+    <published>1967</published>
+    <genre>Magical Realism</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="472">
+    <title>Love in the Time of Cholera</title>
+    <author>Gabriel Garcia Marquez</author>
+    <published>1985</published>
+    <genre>Romance</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="473">
+    <title>The House of the Spirits</title>
+    <author>Isabel Allende</author>
+    <published>1982</published>
+    <genre>Magical Realism</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="474">
+    <title>The Unbearable Lightness of Being</title>
+    <author>Milan Kundera</author>
+    <published>1984</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="475">
+    <title>Life of Pi</title>
+    <author>Yann Martel</author>
+    <published>2001</published>
+    <genre>Adventure</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="476">
+    <title>Shantaram</title>
+    <author>Gregory David Roberts</author>
+    <published>2003</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="477">
+    <title>The Kite Runner</title>
+    <author>Khaled Hosseini</author>
+    <published>2003</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="478">
+    <title>A Thousand Splendid Suns</title>
+    <author>Khaled Hosseini</author>
+    <published>2007</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="479">
+    <title>And the Mountains Echoed</title>
+    <author>Khaled Hosseini</author>
+    <published>2013</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="480">
+    <title>The Book Thief</title>
+    <author>Markus Zusak</author>
+    <published>2005</published>
+    <genre>Historical</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="481">
+    <title>The Girl with the Dragon Tattoo</title>
+    <author>Stieg Larsson</author>
+    <published>2005</published>
+    <genre>Mystery</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="482">
+    <title>Gone Girl</title>
+    <author>Gillian Flynn</author>
+    <published>2012</published>
+    <genre>Mystery</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="483">
+    <title>The Da Vinci Code</title>
+    <author>Dan Brown</author>
+    <published>2003</published>
+    <genre>Mystery</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="484">
+    <title>Angels &amp; Demons</title>
+    <author>Dan Brown</author>
+    <published>2000</published>
+    <genre>Mystery</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="485">
+    <title>The Lovely Bones</title>
+    <author>Alice Sebold</author>
+    <published>2002</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="486">
+    <title>The Girl on the Train</title>
+    <author>Paula Hawkins</author>
+    <published>2015</published>
+    <genre>Thriller</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="487">
+    <title>Big Little Lies</title>
+    <author>Liane Moriarty</author>
+    <published>2014</published>
+    <genre>Thriller</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="488">
+    <title>Sharp Objects</title>
+    <author>Gillian Flynn</author>
+    <published>2006</published>
+    <genre>Thriller</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="489">
+    <title>In Cold Blood</title>
+    <author>Truman Capote</author>
+    <published>1966</published>
+    <genre>True Crime</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="490">
+    <title>Helter Skelter</title>
+    <author>Vincent Bugliosi</author>
+    <published>1974</published>
+    <genre>True Crime</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="491">
+    <title>I Know Why the Caged Bird Sings</title>
+    <author>Maya Angelou</author>
+    <published>1969</published>
+    <genre>Memoir</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="492">
+    <title>The Bell Jar</title>
+    <author>Sylvia Plath</author>
+    <published>1963</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="493">
+    <title>Catch-22</title>
+    <author>Joseph Heller</author>
+    <published>1961</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="494">
+    <title>Slaughterhouse-Five</title>
+    <author>Kurt Vonnegut</author>
+    <published>1969</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="495">
+    <title>The Grapes of Wrath</title>
+    <author>John Steinbeck</author>
+    <published>1939</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="496">
+    <title>East of Eden</title>
+    <author>John Steinbeck</author>
+    <published>1952</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="497">
+    <title>Of Mice and Men</title>
+    <author>John Steinbeck</author>
+    <published>1937</published>
+    <genre>Fiction</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="479">
+    <title>Cosmos</title>
+    <author>Carl Sagan</author>
+    <published>1980</published>
+    <genre>Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="480">
+    <title>The Right Stuff</title>
+    <author>Tom Wolfe</author>
+    <published>1979</published>
+    <genre>Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="481">
+    <title>An Astronaut's Guide to Life on Earth</title>
+    <author>Chris Hadfield</author>
+    <published>2013</published>
+    <genre>Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="482">
+    <title>Apollo 13</title>
+    <author> Jeffrey Kluger &amp; James Lovell</author>
+    <published>1994</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="483">
+    <title>Endurance: A Year in Space, A Lifetime of Discovery</title>
+    <author> Scott Kelly</author>
+    <published>2017</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="484">
+    <title>The Martian</title>
+    <author> Andy Weir</author>
+    <published>2011</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="485">
+    <title>Failure Is Not an Option</title>
+    <author> Gene Kranz</author>
+    <published>2000</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="486">
+    <title>Rocket Men</title>
+    <author> Robert Kurson</author>
+    <published>2018</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="487">
+    <title>Hidden Figures</title>
+    <author> Margot Lee Shetterly</author>
+    <published>2016</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="488">
+    <title> The Overview Effect</title>
+    <author> Frank White</author>
+    <published>1987</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="489">
+    <title>The Case for Mars</title>
+    <author> Robert Zubrin</author>
+    <published>1996</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="490">
+    <title>The Right Kind of Crazy</title>
+    <author> Adam Steltzner</author>
+    <published>2016</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="491">
+    <title>Wanderers</title>
+    <author> Robinson Wells</author>
+    <published>2021</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="492">
+    <title>The Last Man on the Moon</title>
+    <author> Eugene Cernan</author>
+    <published>1999</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="493">
+    <title>Riding Rockets</title>
+    <author> Mike Mullane</author>
+    <published>2006</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="494">
+    <title>Lost Moon</title>
+    <author> Jeffrey Kluger &amp; James Lovell</author>
+    <published>1994</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="495">
+    <title>Moon Shot</title>
+    <author> Alan Shepard &amp; Deke Slayton</author>
+    <published>1994</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="496">
+    <title>Packing for Mars</title>
+    <author> Mary Roach</author>
+    <published>2010</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="497">
+    <title>A Man on the Moon</title>
+    <author> Andrew Chaikin</author>
+    <published>1994</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="498">
+    <title>Chasing Space</title>
+    <author> Leland Melvin</author>
+    <published>2017</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="499">
+    <title>Rocket Boys</title>
+    <author> Homer Hickam</author>
+    <published>1998</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="500">
+    <title>Beyond Earth</title>
+    <author> Charles Wohlforth &amp; Amanda Hendrix</author>
+    <published>2016</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="501">
+    <title>The Sky Below</title>
+    <author> Scott Parazynski</author>
+    <published>2017</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="502">
+    <title>Astrophysics for People in a Hurry</title>
+    <author> Neil deGrasse Tyson</author>
+    <published>2017</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="503">
+    <title>Moonwalk</title>
+    <author> Michael Jackson</author>
+    <published>1988</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="504">
+    <title>The Apollo Murders</title>
+    <author> Chris Hadfield</author>
+    <published>2021</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="505">
+    <title>Space Chronicles</title>
+    <author> Neil deGrasse Tyson</author>
+    <published>2012</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="506">
+    <title>The Orbital Perspective</title>
+    <author> Ron Garan</author>
+    <published>2015</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="507">
+    <title>The Moon Is a Harsh Mistress</title>
+    <author> Robert A. Heinlein</author>
+    <published>1966</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="508">
+    <title>The Future of Humanity</title>
+    <author> Michio Kaku</author>
+    <published>2018</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="509">
+    <title>How We Got to the Moon</title>
+    <author> John Rocco</author>
+    <published>2020</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="510">
+    <title>Mission to Mars</title>
+    <author> Buzz Aldrin</author>
+    <published>2013</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="511">
+    <title>Apollo 8</title>
+    <author> Jeffrey Kluger</author>
+    <published>2017</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="512">
+    <title>First Man</title>
+    <author> James R. Hansen</author>
+    <published>2005</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="513">
+    <title>Infinite Worlds</title>
+    <author> Michael Carroll</author>
+    <published>2015</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="514">
+    <title>Spaceman</title>
+    <author> Mike Massimino</author>
+    <published>2016</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="515">
+    <title>Mars Direct</title>
+    <author> Robert Zubrin</author>
+    <published>2013</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="516">
+    <title>The Infinite View</title>
+    <author> Ellen Mahoney</author>
+    <published>2015</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="517">
+    <title>The New Right Stuff</title>
+    <author> Loretta Hidalgo Whitesides</author>
+    <published>2020</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="518">
+    <title>Apollo to the Moon</title>
+    <author> Teasel Muir-Harmony</author>
+    <published>2018</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="519">
+    <title>Mission Control</title>
+    <author> David Carey</author>
+    <published>2006</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="520">
+    <title>Into That Silent Sea</title>
+    <author> Francis French</author>
+    <published>2007</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="521">
+    <title>Rocket Science for Babies</title>
+    <author> Chris Ferrie</author>
+    <published>2013</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="522">
+    <title>The Interstellar Age</title>
+    <author> Jim Bell</author>
+    <published>2015</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="523">
+    <title>Our Cosmic Origins</title>
+    <author> Armand Delsemme</author>
+    <published>1998</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="524">
+    <title>The Race</title>
+    <author> James Schefter</author>
+    <published>1999</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="525">
+    <title>Apollo 11</title>
+    <author> David Whitehouse</author>
+    <published>2019</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="526">
+    <title>Countdown</title>
+    <author> Alan Weisman</author>
+    <published>2014</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="527">
+    <title>Rise of the Rocket Girls</title>
+    <author> Nathalia Holt</author>
+    <published>2016</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+  <book id="528">
+    <title>Moonbound</title>
+    <author> Jonathan Fetter-Vorm</author>
+    <published>2019</published>
+    <genre> Space Exploration</genre>
+    <first_sentence/>
+    <subject/>
+    <place/>
+    <time/>
+  </book>
+</library>

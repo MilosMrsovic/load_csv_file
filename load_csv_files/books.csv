@@ -1,0 +1,530 @@
+id,title,author,published,genre
+1,To Kill a Mockingbird,Harper Lee,1960,Fiction
+2,1984,George Orwell,1949,Dystopian
+3,Moby Dick,Herman Melville,1851,Adventure
+4,War and Peace,Leo Tolstoy,1869,Historical
+5,The Catcher in the Rye,J.D. Salinger,1951,Coming-of-Age
+6,The Alchemist,Paulo Coelho,1988,Adventure
+7,Pride and Prejudice,Jane Austen,1813,Romance
+8,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction
+9,Brave New World,Aldous Huxley,1932,Dystopian
+10,The Odyssey,Homer,-800,Epic
+11,The Picture of Dorian Gray,Oscar Wilde,1890,Philosophical
+12,Crime and Punishment,Fyodor Dostoevsky,1866,Philosophical
+13,The Brothers Karamazov,Fyodor Dostoevsky,1880,Philosophical
+14,The Hobbit,J.R.R. Tolkien,1937,Fantasy
+15,Fahrenheit 451,Ray Bradbury,1953,Dystopian
+16,Catch-22,Joseph Heller,1961,Satire
+17,The Grapes of Wrath,John Steinbeck,1939,Fiction
+18,The Road,Cormac McCarthy,2006,Post-Apocalyptic
+19,Jane Eyre,Charlotte Brontë,1847,Romance
+20,Wuthering Heights,Emily Brontë,1847,Gothic
+21,Little Women,Louisa May Alcott,1868,Coming-of-Age
+22,The Chronicles of Narnia,C.S. Lewis,1950,Fantasy
+23,The Secret Garden,Frances Hodgson Burnett,1911,Children's
+24,The Call of the Wild,Jack London,1903,Adventure
+25,The Scarlet Letter,Nathaniel Hawthorne,1850,Historical Fiction
+26,Anna Karenina,Leo Tolstoy,1877,Romance
+27,The Handmaid's Tale,Margaret Atwood,1985,Dystopian
+28,The Kite Runner,Khaled Hosseini,2003,Fiction
+29,The Fault in Our Stars,John Green,2012,Young Adult
+30,A Tale of Two Cities,Charles Dickens,1859,Historical Fiction
+31,The Alchemist,Paulo Coelho,1988,Adventure
+32,The Count of Monte Cristo,Alexandre Dumas,1844,Adventure
+33,The Da Vinci Code,Dan Brown,2003,Thriller
+34,Siddhartha,Hermann Hesse,1922,Philosophical
+35,The Sun Also Rises,Ernest Hemingway,1926,Fiction
+36,Slaughterhouse-Five,Kurt Vonnegut,1969,Sci-Fi
+37,Brave New World,Aldous Huxley,1932,Dystopian
+38,The Old Man and the Sea,Ernest Hemingway,1952,Fiction
+39,A Clockwork Orange,Anthony Burgess,1962,Dystopian
+40,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,Sci-Fi
+41,The Bell Jar,Sylvia Plath,1963,Fiction
+42,To the Lighthouse,Virginia Woolf,1927,Fiction
+43,The Road,Cormac McCarthy,2006,Post-Apocalyptic
+44,Life of Pi,Yann Martel,2001,Fiction
+45,The Amazing Adventures of Kavalier & Clay,Michael Chabon,2000,Fiction
+46,The Night Circus,Erin Morgenstern,2011,Fantasy
+47,Where the Crawdads Sing,Delia Owens,2018,Fiction
+48,The Martian,Andy Weir,2011,Sci-Fi
+49,The Book Thief,Markus Zusak,2005,Fiction
+50,Educated,Tara Westover,2018,Memoir
+51,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction
+52,The Glass Castle,Jeannette Walls,2005,Memoir
+53,Becoming,Michelle Obama,2018,Memoir
+54,"Thinking,Fast and Slow",Daniel Kahneman,2011,Non-Fiction
+55,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction
+56,The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg,2012,Non-Fiction
+57,The Subtle Art of Not Giving a F*ck,Mark Manson,2016,Non-Fiction
+58,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,2012,Non-Fiction
+59,Grit: The Power of Passion and Perseverance,Angela Duckworth,2016,Non-Fiction
+60,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+61,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help
+62,The Four Agreements,Don Miguel Ruiz,1997,Self-Help
+63,Man's Search for Meaning,Viktor E. Frankl,1946,Psychology
+64,Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones,James Clear,2018,Self-Help
+65,Dare to Lead,Brene Brown,2018,Self-Help
+66,Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and the Middle Class Do Not,Robert T. Kiyosaki,1997,Personal Finance
+67,The Total Money Makeover: A Proven Plan for Financial Fitness,Dave Ramsey,2003,Personal Finance
+68,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Jen Sincero,2013,Self-Help
+69,Awaken the Giant Within,Tony Robbins,1991,Self-Help
+70,The 48 Laws of Power,Robert Greene,1998,Self-Help
+72,The Prince,Niccolò Machiavelli,1532,Politics
+73,The Elements of Style,William Strunk Jr. and E.B. White,1959,Writing
+74,On Writing: A Memoir of the Craft,Stephen King,2000,Writing
+75,The War of Art,Steven Pressfield,2002,Writing
+76,The Writing Life,Annie Dillard,1989,Writing
+77,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity
+78,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity
+79,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity
+80,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity
+81,The Creative's Guide to Starting a Business,Danny Iny,2014,Entrepreneurship
+82,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Eric Ries,2011,Entrepreneurship
+83,"Crushing It!: How Great Entrepreneurs Build Their Business and Influence—and How You Can, Too",Gary Vaynerchuk,2018,Entrepreneurship
+84,"Zero to One: Notes on Startups, or How to Build the Future",Peter Thiel,2014,Entrepreneurship
+85,The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers,Ben Horowitz,2014,Entrepreneurship
+86,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership
+87,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management
+88,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management
+89,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management
+90,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management
+91,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management
+92,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+93,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership
+94,Leaders Eat Last: Why Some Teams Pull Together and Others Don't,Simon Sinek,2014,Leadership
+95,The 48 Laws of Power,Robert Greene,1998,Self-Help
+97,The Prince,Niccolò Machiavelli,1532,Politics
+98,The Art of Happiness,Dalai Lama,1998,Philosophy
+99,"Thinking, Fast and Slow",Daniel Kahneman,2011,Psychology
+100,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction
+101,The God Delusion,Richard Dawkins,2006,Non-Fiction
+102,The Selfish Gene,Richard Dawkins,1976,Non-Fiction
+103,The Blind Watchmaker,Richard Dawkins,1986,Non-Fiction
+104,A Brief History of Time,Stephen Hawking,1988,Science
+105,The Universe in a Nutshell,Stephen Hawking,2001,Science
+106,The Grand Design,Stephen Hawking,2010,Science
+107,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",Brian Greene,2004,Science
+108,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science
+109,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1999,Science
+110,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction
+111,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction
+112,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction
+113,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction
+114,When Breath Becomes Air,Paul Kalanithi,2016,Memoir
+115,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction
+116,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+117,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+118,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction
+119,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+120,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+121,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+122,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+123,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+124,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction
+125,The 48 Laws of Power,Robert Greene,1998,Self-Help
+126,The Art of Happiness,Dalai Lama,1998,Philosophy
+128,The Prince,Niccolò Machiavelli,1532,Politics
+129,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity
+130,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity
+131,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity
+132,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity
+133,The Writing Life,Annie Dillard,1989,Writing
+134,On Writing: A Memoir of the Craft,Stephen King,2000,Writing
+135,The War of Art,Steven Pressfield,2002,Writing
+136,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help
+137,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+138,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership
+139,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management
+140,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management
+141,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management
+142,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management
+143,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management
+144,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+145,"Thinking, Fast and Slow",Daniel Kahneman,2011,Psychology
+146,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction
+147,The Selfish Gene,Richard Dawkins,1976,Non-Fiction
+148,The God Delusion,Richard Dawkins,2006,Non-Fiction
+149,A Brief History of Time,Stephen Hawking,1988,Science
+150,The Universe in a Nutshell,Stephen Hawking,2001,Science
+151,The Grand Design,Stephen Hawking,2010,Science
+152,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science
+153,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1999,Science
+154,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction
+155,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction
+156,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction
+157,When Breath Becomes Air,Paul Kalanithi,2016,Memoir
+158,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction
+159,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+160,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+161,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction
+162,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+163,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+164,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+165,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+166,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+167,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction
+168,The 48 Laws of Power,Robert Greene,1998,Self-Help
+169,The Art of Happiness,Dalai Lama,1998,Philosophy
+171,The Prince,Niccolò Machiavelli,1532,Politics
+172,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity
+173,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity
+174,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity
+175,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity
+176,The Writing Life,Annie Dillard,1989,Writing
+177,On Writing: A Memoir of the Craft,Stephen King,2000,Writing
+178,The War of Art,Steven Pressfield,2002,Writing
+179,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help
+180,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+181,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership
+182,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management
+183,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management
+184,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management
+185,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management
+186,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management
+187,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+188,"Thinking, Fast and Slow",Daniel Kahneman,2011,Psychology
+189,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction
+190,The Selfish Gene,Richard Dawkins,1976,Non-Fiction
+191,The God Delusion,Richard Dawkins,2006,Non-Fiction
+192,A Brief History of Time,Stephen Hawking,1988,Science
+193,The Universe in a Nutshell,Stephen Hawking,2001,Science
+194,The Grand Design,Stephen Hawking,2010,Science
+195,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science
+196,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1999,Science
+197,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction
+198,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction
+199,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction
+200,When Breath Becomes Air,Paul Kalanithi,2016,Memoir
+201,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction
+202,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+203,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+204,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction
+205,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+206,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+207,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+208,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+209,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+210,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction
+211,The 48 Laws of Power,Robert Greene,1998,Self-Help
+212,The Art of Happiness,Dalai Lama,1998,Philosophy
+214,The Prince,Niccolò Machiavelli,1532,Politics
+215,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity
+216,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity
+217,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity
+218,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity
+219,The Writing Life,Annie Dillard,1989,Writing
+220,On Writing: A Memoir of the Craft,Stephen King,2000,Writing
+221,The War of Art,Steven Pressfield,2002,Writing
+222,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help
+223,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+224,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership
+225,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management
+226,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management
+227,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management
+228,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management
+229,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management
+230,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+231,"Thinking, Fast and Slow",Daniel Kahneman,2011,Psychology
+232,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction
+233,The Selfish Gene,Richard Dawkins,1976,Non-Fiction
+234,The God Delusion,Richard Dawkins,2006,Non-Fiction
+235,A Brief History of Time,Stephen Hawking,1988,Science
+236,The Universe in a Nutshell,Stephen Hawking,2001,Science
+237,The Grand Design,Stephen Hawking,2010,Science
+238,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science
+239,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1999,Science
+240,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction
+241,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction
+242,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction
+243,When Breath Becomes Air,Paul Kalanithi,2016,Memoir
+244,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction
+245,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+246,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+248,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+249,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+250,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+251,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+252,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+254,The 48 Laws of Power,Robert Greene,1998,Self-Help
+255,The Art of Happiness,Dalai Lama,1998,Philosophy
+256,The Art of War,Sun Tzu,5th Century BC,Military
+257,The Prince,Niccolò Machiavelli,1532,Politics
+258,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity
+259,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity
+260,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity
+261,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity
+262,The Writing Life,Annie Dillard,1989,Writing
+263,On Writing: A Memoir of the Craft,Stephen King,2000,Writing
+264,The War of Art,Steven Pressfield,2002,Writing
+265,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help
+266,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+267,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership
+268,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management
+269,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management
+270,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management
+271,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management
+272,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management
+273,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+275,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction
+276,The Selfish Gene,Richard Dawkins,1976,Non-Fiction
+277,The God Delusion,Richard Dawkins,2006,Non-Fiction
+278,A Brief History of Time,Stephen Hawking,1988,Science
+279,The Universe in a Nutshell,Stephen Hawking,2001,Science
+280,The Grand Design,Stephen Hawking,2010,Science
+281,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science
+283,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction
+284,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction
+285,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction
+286,When Breath Becomes Air,Paul Kalanithi,2016,Memoir
+287,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction
+288,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+289,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+291,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+292,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+293,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+294,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+295,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+297,The 48 Laws of Power,Robert Greene,1998,Self-Help
+298,The Art of Happiness,Dalai Lama,1998,Philosophy
+300,The Prince,Niccolò Machiavelli,1532,Politics
+301,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity
+302,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity
+303,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity
+304,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity
+305,The Writing Life,Annie Dillard,1989,Writing
+306,On Writing: A Memoir of the Craft,Stephen King,2000,Writing
+307,The War of Art,Steven Pressfield,2002,Writing
+308,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help
+309,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+310,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership
+311,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management
+312,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management
+313,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management
+314,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management
+315,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management
+316,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+318,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction
+319,The Selfish Gene,Richard Dawkins,1976,Non-Fiction
+320,The God Delusion,Richard Dawkins,2006,Non-Fiction
+321,A Brief History of Time,Stephen Hawking,1988,Science
+322,The Universe in a Nutshell,Stephen Hawking,2001,Science
+323,The Grand Design,Stephen Hawking,2010,Science
+324,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science
+326,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction
+327,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction
+328,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction
+329,When Breath Becomes Air,Paul Kalanithi,2016,Memoir
+330,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction
+331,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+332,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+333,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction
+334,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+335,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+336,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction
+337,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction
+338,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction
+340,The 48 Laws of Power,Robert Greene,1998,Self-Help
+341,The Art of Happiness,Dalai Lama,1998,Philosophy
+343,The Prince,Niccolò Machiavelli,1532,Politics
+344,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity
+345,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity
+346,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity
+347,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity
+348,The Writing Life,Annie Dillard,1989,Writing
+349,On Writing: A Memoir of the Craft,Stephen King,2000,Writing
+350,The War of Art,Steven Pressfield,2002,Writing
+351,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help
+352,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+353,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership
+354,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management
+355,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management
+356,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management
+357,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management
+358,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management
+359,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help
+361,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction
+362,The Selfish Gene,Richard Dawkins,1976,Non-Fiction
+363,The God Delusion,Richard Dawkins,2006,Non-Fiction
+364,A Brief History of Time,Stephen Hawking,1988,Science
+365,The Universe in a Nutshell,Stephen Hawking,2001,Science
+366,The Grand Design,Stephen Hawking,2010,Science
+367,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science
+369,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction
+370,Think and Grow Rich,Napoleon Hill,1937,Self-Help
+371,Atomic Habits,James Clear,2018,Self-Help
+372,The Road Less Traveled,M. Scott Peck,1978,Self-Help
+373,Man's Search for Meaning,Victor Frankl,1946,Philosophy
+374,The Man Who Knew Infinity,Robert Kanigel,1991,Biography
+375,Silent Spring,Rachel Carson,1962,Environmental
+376,"Guns, Germs, and Steel",Jared Diamond,1997,History
+377,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,2005,History
+378,The Structure of Scientific Revolutions,Thomas S. Kuhn,1962,Science
+379,The Origin of Species,Charles Darwin,1859,Science
+380,The Double Helix,James D. Watson,1968,Science
+381,The Emperor's New Mind,Roger Penrose,1989,Science
+382,Quantum Mechanics: The Theoretical Minimum,Leonard Susskind,2013,Science
+383,The Order of Time,Carlo Rovelli,2017,Science
+384,The Fabric of the Cosmos,Brian Greene,2004,Science
+385,Seven Brief Lessons on Physics,Carlo Rovelli,2014,Science
+386,Chaos: Making a New Science,James Gleick,1987,Science
+387,Physics of the Impossible,Michio Kaku,2008,Science
+388,"The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",Walter Isaacson,2014,Technology
+389,Steve Jobs,Walter Isaacson,2011,Biography
+390,"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",Ashlee Vance,2015,Biography
+391,Einstein: His Life and Universe,Walter Isaacson,2007,Biography
+392,Becoming,Michelle Obama,2018,Memoir
+393,Educated,Tara Westover,2018,Memoir
+394,The Glass Castle,Jeannette Walls,2005,Memoir
+395,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,2010,Non-Fiction
+396,The Wright Brothers,David McCullough,2015,Biography
+397,Alexander Hamilton,Ron Chernow,2004,Biography
+398,Grant,Ron Chernow,2017,Biography
+399,Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,2005,History
+400,1776,David McCullough,2005,History
+401,John Adams,David McCullough,2001,Biography
+402,The Rise and Fall of the Third Reich,William L. Shirer,1960,History
+403,Bury My Heart at Wounded Knee,Dee Brown,1970,History
+404,Genghis Khan and the Making of the Modern World,Jack Weatherford,2004,History
+405,The Pioneers,David McCullough,2019,History
+406,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction
+407,The Sixth Extinction: An Unnatural History,Elizabeth Kolbert,2014,Science
+408,A Short History of Nearly Everything,Bill Bryson,2003,Science
+409,Cosmos,Carl Sagan,1980,Science
+410,Pale Blue Dot: A Vision of the Human Future in Space,Carl Sagan,1994,Science
+411,"The God Particle: If the Universe Is the Answer, What Is the Question?",Leon Lederman,1993,Science
+412,The Demon-Haunted World: Science as a Candle in the Dark,Carl Sagan,1995,Science
+413,The Greatest Show on Earth: The Evidence for Evolution,Richard Dawkins,2009,Science
+414,The Social Contract,Jean-Jacques Rousseau,1762,Philosophy
+415,The Prince,Niccolò Machiavelli,1532,Politics
+416,On Liberty,John Stuart Mill,1859,Philosophy
+417,The Wealth of Nations,Adam Smith,1776,Economics
+418,Das Kapital,Karl Marx,1867,Economics
+419,The Communist Manifesto,Karl Marx and Friedrich Engels,1848,Politics
+420,Brave New World,Aldous Huxley,1932,Dystopian
+421,Fahrenheit 451,Ray Bradbury,1953,Dystopian
+422,Animal Farm,George Orwell,1945,Dystopian
+423,A Clockwork Orange,Anthony Burgess,1962,Dystopian
+424,The Road,Cormac McCarthy,2006,Dystopian
+425,The Handmaid's Tale,Margaret Atwood,1985,Dystopian
+426,Oryx and Crake,Margaret Atwood,2003,Dystopian
+427,The Hunger Games,Suzanne Collins,2008,Dystopian
+428,Mockingjay,Suzanne Collins,2010,Dystopian
+429,The Maze Runner,James Dashner,2009,Dystopian
+430,Divergent,Veronica Roth,2011,Dystopian
+431,The Giver,Lois Lowry,1993,Dystopian
+432,The Little Prince,Antoine de Saint-Exupéry,1943,Fiction
+433,The Phantom Tollbooth,Norton Juster,1961,Fantasy
+434,Where the Wild Things Are,Maurice Sendak,1963,Children's
+435,Charlotte's Web,E.B. White,1952,Children's
+436,The Secret Garden,Frances Hodgson Burnett,1911,Children's
+437,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,Fantasy
+438,Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,Fantasy
+439,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1999,Fantasy
+440,The Hobbit,J.R.R. Tolkien,1937,Fantasy
+441,The Fellowship of the Ring,J.R.R. Tolkien,1954,Fantasy
+442,The Two Towers,J.R.R. Tolkien,1954,Fantasy
+443,The Return of the King,J.R.R. Tolkien,1955,Fantasy
+444,The Catcher in the Rye,J.D. Salinger,1951,Fiction
+445,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction
+446,To Kill a Mockingbird,Harper Lee,1960,Fiction
+447,1984,George Orwell,1949,Dystopian
+448,War and Peace,Leo Tolstoy,1869,Historical
+449,Moby Dick,Herman Melville,1851,Adventure
+450,Pride and Prejudice,Jane Austen,1813,Romance
+451,Emma,Jane Austen,1815,Romance
+452,Little Women,Louisa May Alcott,1868,Fiction
+453,Jane Eyre,Charlotte Brontë,1847,Fiction
+454,Wuthering Heights,Emily Brontë,1847,Fiction
+455,A Tale of Two Cities,Charles Dickens,1859,Historical
+456,The Count of Monte Cristo,Alexandre Dumas,1844,Adventure
+457,Dracula,Bram Stoker,1897,Horror
+458,Frankenstein,Mary Shelley,1818,Horror
+459,The Metamorphosis,Franz Kafka,1915,Fiction
+460,Crime and Punishment,Fyodor Dostoevsky,1866,Philosophy
+461,The Brothers Karamazov,Fyodor Dostoevsky,1880,Philosophy
+462,The Idiot,Fyodor Dostoevsky,1869,Philosophy
+463,Anna Karenina,Leo Tolstoy,1877,Romance
+464,Les Misérables,Victor Hugo,1862,Historical
+465,The Iliad,Homer,8th Century BC,Classics
+466,The Odyssey,Homer,8th Century BC,Classics
+467,The Aeneid,Virgil,1st Century BC,Classics
+468,Inferno,Dante Alighieri,1320,Classics
+469,Paradise Lost,John Milton,1667,Classics
+470,Don Quixote,Miguel de Cervantes,1605,Classics
+471,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,Magical Realism
+472,Love in the Time of Cholera,Gabriel Garcia Marquez,1985,Romance
+473,The House of the Spirits,Isabel Allende,1982,Magical Realism
+474,The Unbearable Lightness of Being,Milan Kundera,1984,Fiction
+475,Life of Pi,Yann Martel,2001,Adventure
+476,Shantaram,Gregory David Roberts,2003,Fiction
+477,The Kite Runner,Khaled Hosseini,2003,Fiction
+478,A Thousand Splendid Suns,Khaled Hosseini,2007,Fiction
+479,And the Mountains Echoed,Khaled Hosseini,2013,Fiction
+480,The Book Thief,Markus Zusak,2005,Historical
+481,The Girl with the Dragon Tattoo,Stieg Larsson,2005,Mystery
+482,Gone Girl,Gillian Flynn,2012,Mystery
+483,The Da Vinci Code,Dan Brown,2003,Mystery
+484,Angels & Demons,Dan Brown,2000,Mystery
+485,The Lovely Bones,Alice Sebold,2002,Fiction
+486,The Girl on the Train,Paula Hawkins,2015,Thriller
+487,Big Little Lies,Liane Moriarty,2014,Thriller
+488,Sharp Objects,Gillian Flynn,2006,Thriller
+489,In Cold Blood,Truman Capote,1966,True Crime
+490,Helter Skelter,Vincent Bugliosi,1974,True Crime
+491,I Know Why the Caged Bird Sings,Maya Angelou,1969,Memoir
+492,The Bell Jar,Sylvia Plath,1963,Fiction
+493,Catch-22,Joseph Heller,1961,Fiction
+494,Slaughterhouse-Five,Kurt Vonnegut,1969,Fiction
+495,The Grapes of Wrath,John Steinbeck,1939,Fiction
+496,East of Eden,John Steinbeck,1952,Fiction
+497,Of Mice and Men,John Steinbeck,1937,Fiction
+479,Cosmos,Carl Sagan,1980,Space Exploration
+480,The Right Stuff,Tom Wolfe,1979,Space Exploration
+481,An Astronaut's Guide to Life on Earth,Chris Hadfield,2013,Space Exploration
+482,Apollo 13, Jeffrey Kluger & James Lovell,1994, Space Exploration
+483,"Endurance: A Year in Space, A Lifetime of Discovery", Scott Kelly,2017, Space Exploration
+484,The Martian, Andy Weir,2011, Space Exploration
+485,Failure Is Not an Option, Gene Kranz,2000, Space Exploration
+486,Rocket Men, Robert Kurson,2018, Space Exploration
+487,Hidden Figures, Margot Lee Shetterly,2016, Space Exploration
+488, The Overview Effect, Frank White,1987, Space Exploration
+489,The Case for Mars, Robert Zubrin,1996, Space Exploration
+490,The Right Kind of Crazy, Adam Steltzner,2016, Space Exploration
+491,Wanderers, Robinson Wells,2021, Space Exploration
+492,The Last Man on the Moon, Eugene Cernan,1999, Space Exploration
+493,Riding Rockets, Mike Mullane,2006, Space Exploration
+494,Lost Moon, Jeffrey Kluger & James Lovell,1994, Space Exploration
+495,Moon Shot, Alan Shepard & Deke Slayton,1994, Space Exploration
+496,Packing for Mars, Mary Roach,2010, Space Exploration
+497,A Man on the Moon, Andrew Chaikin,1994, Space Exploration
+498,Chasing Space, Leland Melvin,2017, Space Exploration
+499,Rocket Boys, Homer Hickam,1998, Space Exploration
+500,Beyond Earth, Charles Wohlforth & Amanda Hendrix,2016, Space Exploration
+501,The Sky Below, Scott Parazynski,2017, Space Exploration
+502,Astrophysics for People in a Hurry, Neil deGrasse Tyson,2017, Space Exploration
+503,Moonwalk, Michael Jackson,1988, Space Exploration
+504,The Apollo Murders, Chris Hadfield,2021, Space Exploration
+505,Space Chronicles, Neil deGrasse Tyson,2012, Space Exploration
+506,The Orbital Perspective, Ron Garan,2015, Space Exploration
+507,The Moon Is a Harsh Mistress, Robert A. Heinlein,1966, Space Exploration
+508,The Future of Humanity, Michio Kaku,2018, Space Exploration
+509,How We Got to the Moon, John Rocco,2020, Space Exploration
+510,Mission to Mars, Buzz Aldrin,2013, Space Exploration
+511,Apollo 8, Jeffrey Kluger,2017, Space Exploration
+512,First Man, James R. Hansen,2005, Space Exploration
+513,Infinite Worlds, Michael Carroll,2015, Space Exploration
+514,Spaceman, Mike Massimino,2016, Space Exploration
+515,Mars Direct, Robert Zubrin,2013, Space Exploration
+516,The Infinite View, Ellen Mahoney,2015, Space Exploration
+517,The New Right Stuff, Loretta Hidalgo Whitesides,2020, Space Exploration
+518,Apollo to the Moon, Teasel Muir-Harmony,2018, Space Exploration
+519,Mission Control, David Carey,2006, Space Exploration
+520,Into That Silent Sea, Francis French,2007, Space Exploration
+521,Rocket Science for Babies, Chris Ferrie,2013, Space Exploration
+522,The Interstellar Age, Jim Bell,2015, Space Exploration
+523,Our Cosmic Origins, Armand Delsemme,1998, Space Exploration
+524,The Race, James Schefter,1999, Space Exploration
+525,Apollo 11, David Whitehouse,2019, Space Exploration
+526,Countdown, Alan Weisman,2014, Space Exploration
+527,Rise of the Rocket Girls, Nathalia Holt,2016, Space Exploration
+528,Moonbound, Jonathan Fetter-Vorm,2019, Space Exploration
